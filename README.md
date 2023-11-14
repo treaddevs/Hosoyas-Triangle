@@ -1,0 +1,1 @@
+# Hosoya-s-Triangle
